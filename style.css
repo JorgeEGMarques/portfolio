@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(225,222,223);
+}
+
+#nome {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    font-weight: 500;
+}
